@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Jobylon Unbiaser",
+  "version": "0.1",
+  "description": "Makes your experience on Jobylon a bit less biased.",
+  "content_scripts": [
+    {
+      "matches": ["*://emp.jobylon.com/*"],
+      "css": ["unbiaser.css"],
+      "run_at": "document_start"
+    }
+  ]
+}
+
