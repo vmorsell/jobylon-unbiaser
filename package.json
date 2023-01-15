@@ -1,4 +1,8 @@
 {
+    "scripts": {
+        "dist": "mkdir -p dist && cd src && zip -r -FS ../dist/jobylon-unbiaser.zip *",
+        "clean": "rm -rf dist"
+    },
     "devDependencies": {
         "eslint": "^8.32.0",
         "eslint-config-prettier": "^8.6.0",
