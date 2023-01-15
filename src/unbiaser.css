@@ -1,34 +1,34 @@
 /* Hide user images */
 .user-img {
-  visibility: hidden;
+    visibility: hidden;
 }
 
 /* Hide multiple applications accordion */
 .multiple-applications {
-  display: none;
+    display: none;
 }
 
 /* Hide assessment badges */
 .assessment-badges {
-  visibility: hidden;
+    visibility: hidden;
 }
 
 /* Hide Layke matching */
 #layke-card {
-  display: none;
+    display: none;
 }
 
 /* Hide Alva assessment */
 #alva-card {
-  display: none;
+    display: none;
 }
 
 /* Hide show details checkbox seen under Alva and Layke */
 .show-details {
-  display: none;
+    display: none;
 }
 
 /* Hide application answers */
 .application-answers {
-  display: none;
+    display: none;
 }

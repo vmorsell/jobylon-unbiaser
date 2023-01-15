@@ -1,15 +1,15 @@
 {
-  "manifest_version": 2,
-  "name": "Jobylon Unbiaser",
-  "version": "0.1",
-  "description": "Makes your experience on Jobylon a bit less biased.",
-  "permissions": ["*://emp.jobylon.com/*"],
-  "browser_action": {
-    "browser_style": true,
-    "default_title": "Jobylon Unbiaser",
-    "default_popup": "/popup.html"
-  },
-  "background": {
-    "scripts": ["background.js"]
-  }
+    "manifest_version": 2,
+    "name": "Jobylon Unbiaser",
+    "version": "0.1",
+    "description": "Makes your experience on Jobylon a bit less biased.",
+    "permissions": ["*://emp.jobylon.com/*"],
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "Jobylon Unbiaser",
+        "default_popup": "/popup.html"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    }
 }

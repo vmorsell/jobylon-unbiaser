@@ -1,9 +1,9 @@
 /* Hide Alva assessment */
 #alva-card {
-  display: none;
+    display: none;
 }
 
 /* Hide assessment badges */
 .assessment-badges {
-  visibility: hidden;
+    visibility: hidden;
 }
