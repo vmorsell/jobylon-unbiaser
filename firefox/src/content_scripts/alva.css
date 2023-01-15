@@ -1,0 +1,9 @@
+/* Hide Alva assessment */
+#alva-card {
+  display: none;
+}
+
+/* Hide assessment badges */
+.assessment-badges {
+  visibility: hidden;
+}

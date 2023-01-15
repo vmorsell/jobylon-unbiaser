@@ -1,0 +1,9 @@
+/* Hide Layke matching */
+#layke-card {
+  display: none;
+}
+
+/* Hide assessment badges */
+.assessment-badges {
+  visibility: hidden;
+}

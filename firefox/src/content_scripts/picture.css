@@ -1,0 +1,4 @@
+/* Hide user pictures */
+.user-img {
+  visibility: hidden;
+}
